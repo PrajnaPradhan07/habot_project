@@ -1,0 +1,30 @@
+
+#Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+#Virtual environments
+venv/
+env/
+ENV/
+*.env
+
+#Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+media/
+staticfiles/
+
+#PyCharm / JetBrains IDE
+.idea/
+*.iml
+
+#MySQL dumps
+*.sql
+
+

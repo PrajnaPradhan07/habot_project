@@ -1,8 +1,6 @@
 Employee CRUD API with JWT authentication
 
 A RESTful API built with Django REST Framework to manage employees in a company.  
-Developed as part of the Habot Hiring Project for the Python Backend Developer role.
-
 ---
 
 🚀 Features
